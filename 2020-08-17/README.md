@@ -14,5 +14,10 @@
 
 - `git log` : shows you your history
     - `git log --oneline` : show you your 1-line version of history
+- `head' : tells you what is latest version
 
-- `head master tells you what is latest version
+- `git diff` : shows you the differences between versions
+- `git diff --staged' : shows you the differences between versions after you have added to staging area
+- `git commit -m`: "Message"
+
+
