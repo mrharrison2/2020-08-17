@@ -21,4 +21,8 @@
 - `git commit -m`: "Message"
 
 
+
+
+
+
 you can make changes to different parts of a file and it will be combined automatically
