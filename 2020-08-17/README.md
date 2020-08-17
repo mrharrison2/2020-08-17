@@ -19,3 +19,6 @@
 - `git diff` : shows you the differences between versions
 - `git diff --staged' : shows you the differences between versions after you have added to staging area
 - `git commit -m`: "Message"
+
+
+- Hey it is Mike Badzmierowski collaborating on your README
